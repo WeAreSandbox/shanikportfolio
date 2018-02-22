@@ -205,20 +205,20 @@ a:hover{text-decoration: none; cursor:pointer;}
 
 /* Bloc text custom styling */
 
-#bloc-4 h3{
+#bloc-1 p{
+	font-size: 16px;
+}
+#bloc-40 h3{
 	font-family: 'Work Sans';
 	font-size: 24px;
 }
-#bloc-7 h1{
+#bloc-43 h1{
 	font-family: 'Work Sans';
 	font-size: 24px;
 	line-height: 26px;
 }
-#bloc-12 h1{
+#bloc-48 h1{
 	font-family: 'Work Sans';
-}
-#bloc-45 p{
-	font-size: 16px;
 }
 #bloc-116 h1{
 	font-family: 'Work Sans';
